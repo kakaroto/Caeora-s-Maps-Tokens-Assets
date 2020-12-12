@@ -1,5 +1,7 @@
 # Caeora's Maps, Tokens, and Assets
 
+A collection of maps, tokens, and tiles by Caeora for use with Foundry VTT. Maps include walls, lighting, and other audio and visual effects.
+
 ## Maps
 
 Maps are available under a compendium called "Caeora's Maps" after enabling the module. They can be imported in bulk or you can simply drag a map you wish to use to the Scenes tab.
