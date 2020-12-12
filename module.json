@@ -15,7 +15,7 @@
   "bugs": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/issues",
   "compatibleCoreVersion": "0.7.8",
   "description": "Caeora's Maps, Tokens, and Assets.",
-  "download": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/releases/download/v0.0.1/caeora-free.zip",
+  "download": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/archive/v0.0.1.zip",
   "includes": [
     "assets",
     "battle-maps",
