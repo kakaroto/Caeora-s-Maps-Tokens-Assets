@@ -18,6 +18,8 @@ All of the included scenes should display beautifully without the need for any a
 * [Terrain Layer](https://github.com/wsaunders1014/TerrainLayer) - allows areas of difficult terrain to be seen
 * [Wall Height](https://github.com/schultzcole/FVTT-Wall-Height) - enables walls to be of set height so that characters flying will see over them
 
+All of these modules should be available to install from within Foundry itself.
+
 ## Tokens (WIP)
 
 Tokens can be found by navigating to `modules/caeora-maps-tokens-assets/assets/tokens/`.
