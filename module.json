@@ -1,0 +1,44 @@
+{
+  "author": "Caeora",
+  "authors": [
+    {
+      "name": "Caeora",
+      "discord": "Caeora#9261"
+    },
+    {
+      "name": "Voldemalort",
+      "email": "voldemalort@gmail.com",
+      "discord": "Voldemalort#9415",
+      "reddit": "u/voldemalort"
+    }
+  ],
+  "bugs": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/issues",
+  "compatibleCoreVersion": "0.7.8",
+  "description": "Caeora's Maps, Tokens, and Assets.",
+  "download": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/archive/v0.0.1.zip",
+  "includes": [
+    "assets",
+    "battle-maps",
+    "packs",
+    "module.json"
+  ],
+  "languages": [],
+  "manifest": "https://raw.githubusercontent.com/Caeora/Caeora-s-Maps-Tokens-Assets/v0.0.1/module.json",
+  "manifestPlusVersion": "1.0.0",
+  "minimumCoreVersion": "0.7.7",
+  "name": "caeora-maps-tokens-assets",
+  "packs": [
+    {
+      "label": "Caeora's Maps",
+      "entity": "Scene",
+      "name": "caeora-maps",
+      "path": "packs/caeora-maps.db",
+      "module": "caeora-maps-tokens-assets"
+    }
+  ],
+  "readme": "https://raw.githubusercontent.com/Caeora/Caeora-s-Maps-Tokens-Assets/v0.0.1/README.md",
+  "scripts": [],
+  "title": "Caeora's Maps, Tokens, and Assets",
+  "url": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets",
+  "version": "0.0.1"
+}
