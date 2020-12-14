@@ -23,7 +23,7 @@
     "module.json"
   ],
   "languages": [],
-  "manifest": "https://raw.githubusercontent.com/Caeora/Caeora-s-Maps-Tokens-Assets/v0.0.3/module.json",
+  "manifest": "https://raw.githubusercontent.com/Caeora/Caeora-s-Maps-Tokens-Assets/main/module.json",
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "0.7.7",
   "name": "caeora-maps-tokens-assets",
@@ -36,7 +36,7 @@
       "module": "caeora-maps-tokens-assets"
     }
   ],
-  "readme": "https://raw.githubusercontent.com/Caeora/Caeora-s-Maps-Tokens-Assets/v0.0.3/README.md",
+  "readme": "https://raw.githubusercontent.com/Caeora/Caeora-s-Maps-Tokens-Assets/main/README.md",
   "scripts": [],
   "title": "Caeora's Maps, Tokens, and Assets",
   "url": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets",
