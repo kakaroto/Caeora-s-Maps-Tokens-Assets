@@ -17,6 +17,7 @@ All of the included scenes should display beautifully without the need for any a
 * [Perfect Vision](https://github.com/dev7355608/perfect-vision) - enables global dim lighting for some maps
 * [Terrain Layer](https://github.com/wsaunders1014/TerrainLayer) - allows areas of difficult terrain to be seen
 * [Wall Height](https://github.com/schultzcole/FVTT-Wall-Height) - enables walls to be of set height so that characters flying will see over them
+* [Multilevel Tokens](https://github.com/grandseiken/foundryvtt-multilevel-tokens) - enhances maps with multiple levels by cloning tokens in shared regions and allowing teleportation between maps
 
 All of these modules should be available to install from within Foundry itself.
 
