@@ -1,12 +1,14 @@
-# Caeora's Maps, Tokens, and Assets
+![Caeora's Maps, Tokens, and Assets](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/foundry-800x200-display?raw=true)
 
-![Caeora's Maps, Tokens, and Assets](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/caeora-maps-tokens-assets.gif?raw=true)
+# Caeora's Maps, Tokens, and Assets
 
 A collection of maps, tokens, and tiles by Caeora and KTech for use with Foundry VTT. Maps that include walls, lighting, and other audio and visual effects have been created by Voldemalort.
 
 Additional Maps. Tokens, and Assets by Caeora and KTech can be found at [caeora.com](http://www.caeora.com).
 
 ## Maps
+
+![Caeora's Maps](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/maps-banner.gif?raw=true)
 
 Maps are available under a compendium called "Caeora's Maps" after enabling the module. They can be imported in bulk or you can simply drag a map you wish to use to the Scenes tab.
 
@@ -27,12 +29,12 @@ All of these modules should be available to install from within Foundry itself.
 
 ## Tokens
 
-![Caeora's Tokens](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/Tokens%20Patreon.png?raw=true)
+![Caeora's Tokens](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/tokens-banner.png?raw=true)
 
 Tokens can be found by navigating to `modules/caeora-maps-tokens-assets/assets/tokens/`.
 
 ## Assets
 
-![Caeora's Tokens](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/Assets%20Patreon.png?raw=true)
+![Caeora's Assets](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/assets-banner.png?raw=true)
 
 Assets can be found by navigating to `modules/caeora-maps-tokens-assets/assets/tiles/`. We recommend holding `SHIFT` while placing tiles to preserve their original aspect ratio (as of Foundry 0.7.9).
