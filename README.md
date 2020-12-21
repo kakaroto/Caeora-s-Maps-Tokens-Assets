@@ -1,6 +1,8 @@
 # Caeora's Maps, Tokens, and Assets
 
-A collection of maps, tokens, and tiles by Caeora for use with Foundry VTT. Maps include walls, lighting, and other audio and visual effects.
+A collection of maps, tokens, and tiles by Caeora and KTech for use with Foundry VTT. Maps include walls, lighting, and other audio and visual effects.
+
+Additional Maps. Tokens, and Assets by Caeora and KTech can be found at [caeora.com](http://www.caeora.com).
 
 ## Maps
 
@@ -21,10 +23,10 @@ All of the included scenes should display beautifully without the need for any a
 
 All of these modules should be available to install from within Foundry itself.
 
-## Tokens (WIP)
+## Tokens
 
 Tokens can be found by navigating to `modules/caeora-maps-tokens-assets/assets/tokens/`.
 
-## Assets (WIP)
+## Assets
 
-Tiles can be found by navigating to `modules/caeora-maps-tokens-assets/assets/tiles/`.
+Assets can be found by navigating to `modules/caeora-maps-tokens-assets/assets/tiles/`. We recommend holding `SHIFT` while placing tiles to preserve their original aspect ratio (as of Foundry 0.7.9).
