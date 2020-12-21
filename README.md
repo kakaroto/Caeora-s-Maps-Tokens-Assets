@@ -25,6 +25,6 @@ All of these modules should be available to install from within Foundry itself.
 
 Tokens can be found by navigating to `modules/caeora-maps-tokens-assets/assets/tokens/`.
 
-## Tiles (WIP)
+## Assets (WIP)
 
 Tiles can be found by navigating to `modules/caeora-maps-tokens-assets/assets/tiles/`.
