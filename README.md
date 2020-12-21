@@ -1,4 +1,4 @@
-![Caeora's Maps, Tokens, and Assets](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/foundry-800x200-display?raw=true)
+![Caeora's Maps, Tokens, and Assets](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/foundry-800x200-display.jpg?raw=true)
 
 # Caeora's Maps, Tokens, and Assets
 
