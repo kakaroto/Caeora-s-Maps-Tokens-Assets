@@ -1,5 +1,7 @@
 # Caeora's Maps, Tokens, and Assets
 
+![Caeora's Maps, Tokens, and Assets](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/caeora-maps-tokens-assets.gif?raw=true)
+
 A collection of maps, tokens, and tiles by Caeora and KTech for use with Foundry VTT. Maps that include walls, lighting, and other audio and visual effects have been created by Voldemalort.
 
 Additional Maps. Tokens, and Assets by Caeora and KTech can be found at [caeora.com](http://www.caeora.com).
