@@ -27,8 +27,12 @@ All of these modules should be available to install from within Foundry itself.
 
 ## Tokens
 
+![Caeora's Tokens](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/Tokens%20Patreon.png?raw=true)
+
 Tokens can be found by navigating to `modules/caeora-maps-tokens-assets/assets/tokens/`.
 
 ## Assets
+
+![Caeora's Tokens](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/Assets%20Patreon.png?raw=true)
 
 Assets can be found by navigating to `modules/caeora-maps-tokens-assets/assets/tiles/`. We recommend holding `SHIFT` while placing tiles to preserve their original aspect ratio (as of Foundry 0.7.9).
