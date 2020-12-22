@@ -33,6 +33,12 @@ All of these modules should be available to install from within Foundry itself.
 
 Tokens can be found by navigating to `modules/caeora-maps-tokens-assets/assets/tokens/`.
 
+### Replacing Default 5e SRD Tokens
+
+![Replacing Tokens](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/module-settings.png?raw=true)
+
+By enabling this option in module settings, Caeora's tokens will be used when dragging a new actor to the map with a corresponding token asset in this module. Exiting tokens will not be affected.
+
 ## Assets
 
 ![Caeora's Assets](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/assets-banner.png?raw=true)
