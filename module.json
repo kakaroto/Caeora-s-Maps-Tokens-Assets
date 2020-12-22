@@ -15,7 +15,7 @@
   "bugs": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/issues",
   "compatibleCoreVersion": "0.7.9",
   "description": "Caeora's Maps, Tokens, and Assets.",
-  "download": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/archive/v0.1.0.zip",
+  "download": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/archive/v0.1.1.zip",
   "includes": [
     "assets",
     "battle-maps",
@@ -40,5 +40,5 @@
   "scripts": [],
   "title": "Caeora's Maps, Tokens, and Assets",
   "url": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
