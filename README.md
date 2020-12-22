@@ -37,4 +37,4 @@ Tokens can be found by navigating to `modules/caeora-maps-tokens-assets/assets/t
 
 ![Caeora's Assets](https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/blob/main/docs/assets-banner.png?raw=true)
 
-Assets can be found by navigating to `modules/caeora-maps-tokens-assets/assets/tiles/`. We recommend holding `SHIFT` while placing tiles to preserve their original aspect ratio (as of Foundry 0.7.9).
+Assets can be found by navigating to `modules/caeora-maps-tokens-assets/assets/tiles/`. We recommend holding `SHIFT` while placing tiles to preserve their original aspect ratio and setting the Asset Grid Size to 110. (as of Foundry 0.7.9)
