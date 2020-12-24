@@ -25,6 +25,9 @@ function initialize() {
 		default: false,
 		onChange: replace => replaceArtwork = replace
 	});
+	
+	// Assign the current saved value if there is one
+        replaceArtwork = game.settings.get("caeora-maps-tokens-assets", "replaceArtwork") ?? false;
 
 	// Handle actor replacement, if the setting is enabled
 	Hooks.on("preCreateActor", replaceActorArtwork);
