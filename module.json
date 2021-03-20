@@ -18,7 +18,7 @@
   "esmodules": [
     "caeora.mjs"
   ],
-  "download": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/archive/v1.0.3.zip",
+  "download": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/archive/v1.0.4.zip",
   "includes": [
     "assets",
     "battle-maps",
@@ -43,5 +43,5 @@
   "scripts": [],
   "title": "Caeora's Maps, Tokens, and Assets",
   "url": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets",
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
