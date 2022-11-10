@@ -13,12 +13,11 @@
     }
   ],
   "bugs": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/issues",
-  "compatibleCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "9",
   "description": "This module features a fantastic library of maps, tokens, and props created by Caeora. You will find mysterious and evocative battlemaps, hundreds of beautifully drawn top-down creature tokens, and a collection of detailed props which can be placed as tile assets within your Scenes. All of the battlemaps are pre-configured with walls, lighting, and ambient audio sources. This module also offers an optional setting which can automatically apply Caeora's monster token artwork when importing creatures from the Monsters compendium pack in the dnd5e system.",
   "esmodules": [
     "caeora.mjs"
   ],
-  "download": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/archive/v1.0.4.zip",
   "includes": [
     "assets",
     "battle-maps",
@@ -26,14 +25,15 @@
     "module.json"
   ],
   "languages": [],
-  "manifest": "https://raw.githubusercontent.com/Caeora/Caeora-s-Maps-Tokens-Assets/main/module.json",
+  "manifest": "https://foundryvtt.s3.us-west-2.amazonaws.com/modules/caeora-maps-tokens-assets/module.json",
+  "download": "https://foundryvtt.s3.us-west-2.amazonaws.com/modules/caeora-maps-tokens-assets/caeora-maps-tokens-assets-2.0.2.zip",
   "manifestPlusVersion": "1.0.0",
-  "minimumCoreVersion": "0.7.7",
+  "minimumCoreVersion": "9",
   "name": "caeora-maps-tokens-assets",
   "packs": [
     {
       "label": "Caeora's Maps",
-      "entity": "Scene",
+      "type": "Scene",
       "name": "caeora-maps",
       "path": "packs/caeora-maps.db",
       "module": "caeora-maps-tokens-assets"
@@ -43,5 +43,5 @@
   "scripts": [],
   "title": "Caeora's Maps, Tokens, and Assets",
   "url": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets",
-  "version": "1.0.4"
+  "version": "2.0.2"
 }

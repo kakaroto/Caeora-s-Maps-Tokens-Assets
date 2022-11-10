@@ -1,5 +1,5 @@
 // The base token path
-const TOKEN_PATH = "modules/caeora-maps-tokens-assets/assets/tokens/";
+const TOKEN_PATH = "modules/caeora-maps-tokens-assets/assets/tokens/Monster_Manual_Tokens/";
 
 // A cached list of available tokens
 let availableTokens = new Set();
@@ -51,15 +51,13 @@ async function cacheAvailableTokens() {
 /**
  * Replace the artwork for a NPC actor with the version from this module
  */
-function replaceActorArtwork(data, options, userId) {
-	if ( !replaceArtwork || (data.type !== "npc") || !hasProperty(data, "data.details.cr") ) return;
-	const cleanName = data.name.replace(/ /g, "");
-	const crDir = String(getProperty(data, "data.details.cr")).replace(".", "-");
-	const tokenSrc = `${TOKEN_PATH}cr${crDir}/with-shadows/${cleanName}.png`;
+function replaceActorArtwork(actor, data, options, userId) {
+	if ( !replaceArtwork || (actor.type !== "npc") || !hasProperty(actor, "data.data.details.cr") ) return;
+	const cleanName = actor.name.replace(/ /g, "");
+	const crDir = String(getProperty(actor, "data.data.details.cr")).replace(".", "-");
+	const tokenSrc = `${TOKEN_PATH}cr${crDir}/with-shadows/${cleanName}.webp`;
 	if ( !availableTokens.has(tokenSrc) ) return;
-	data.img = tokenSrc;
-	data.token = data.token || {};
-	data.token.img = tokenSrc;
+	actor.data.update({"img": tokenSrc, "data.token": actor.token || {}, "token.img": tokenSrc})
 }
 
 // Initialize module
