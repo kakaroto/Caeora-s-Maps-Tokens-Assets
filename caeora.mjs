@@ -55,8 +55,10 @@ function replaceActorArtwork(actor, data, options, userId) {
 	if ( !replaceArtwork || (actor.type !== "npc") || !hasProperty(actor, "data.data.details.cr") ) return;
 	const cleanName = actor.name.replace(/ /g, "");
 	const crDir = String(getProperty(actor, "data.data.details.cr")).replace(".", "-");
-	const tokenSrc = `${TOKEN_PATH}cr${crDir}/with-shadows/${cleanName}.webp`;
-	if ( !availableTokens.has(tokenSrc) ) return;
+    // Find the token source in the available tokens.
+    // Using this method instead of hardcoding paths will work with The Bazaar as well as self-hosted Foundry
+    const tokenSrc = availableTokens.find(url => url.endsWith(`cr${crDir}/with-shadows/${cleanName}.webp`))
+    if (!tokenSrc) return;
 	actor.data.update({"img": tokenSrc, "data.token": actor.token || {}, "token.img": tokenSrc})
 }
 
